@@ -1,3 +1,5 @@
+The hint is given in the Morse code format, tus first cover/decode Morse code.
+Logic is simple: find the Morse code of each char and letter and check with each code if it matches, then its corresponding letter replaces it.
 morse_code_dict = {
     '.-': 'A', '-...': 'B', '-.-.': 'C', '-..': 'D', '.': 'E',
     '..-.': 'F', '--.': 'G', '....': 'H', '..': 'I', '.---': 'J',
