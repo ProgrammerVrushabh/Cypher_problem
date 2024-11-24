@@ -1,16 +1,12 @@
 # About Myself
-#include <stdio.h>
-int main() {
+#Student Details {
     
-    char Name[] = "Vrushabh Laxmikant Nipane";
-    char Branch[] = "CSE(DS)";
-    char Sem[] = "1st";
-    char Email[] = "nipanevrushabh6@gmail.com";
-    int Year = 2024; // Year remains an integer
+    Name = Vrushabh Laxmikant Nipane
+    Branch = CSE(DS)
+    Sem = 1st
+    Email = nipanevrushabh6@gmail.com
+    Year = 2024
 
     
-    printf("Name: %s\nBranch: %s\nSemester: %s\nEmail: %s\nYear: %d\n", 
-           Name, Branch, Sem, Email, Year);
-
-    return 0;
+    
 }
